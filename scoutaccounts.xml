@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--
+   Final Project CIS 2330 Introduction to XML
+   Author: Greg Prawdzik
+   Date:   12/07/2018
+
+   Filename:         scoutAccounts.xml
+   Supporting Files: 
+
+-->
+
+<?xml-stylesheet type="text/xsl" href="scoutAccounts.xsl" ?>
+<?xml-stylesheet type="text/css" href="scoutAccounts.css" ?> 
+<Scouts>
+	<Scout>
+		<ScoutID>8</ScoutID>
+		<Sname>Jacob Baggins</Sname>
+		<Saddress>123 Fake St</Saddress>
+		<Scity>Joliet</Scity>
+		<SSt>IL</SSt>
+		<Szip>60431-</Szip>
+		<Pname>Greg Baggins</Pname>
+		<Phone>(815) 555-5555</Phone>
+		<Pemail>jdad@example.com</Pemail>
+	</Scout>
+	<Scout>
+		<ScoutID>5</ScoutID>
+		<Sname>Bridget Cross</Sname>
+		<Saddress>258 Nowhere St</Saddress>
+		<Scity>Plainfield</Scity>
+		<SSt>IL</SSt>
+		<Szip>60452-</Szip>
+		<Pname>Alaina Cross</Pname>
+		<Phone>(815) 666-6666</Phone>
+		<Pemail>amommy@longaddress.com</Pemail>
+	</Scout>
+	<Scout>
+		<ScoutID>1</ScoutID>
+		<Sname>Marie Bell</Sname>
+		<Saddress>845 Long Address Way</Saddress>
+		<Scity>Lockport</Scity>
+		<SSt>IL</SSt>
+		<Szip>60441-</Szip>
+		<Pname>Helen Bell</Pname>
+		<Phone>(815) 999-9999</Phone>
+		<Pemail>sleepyBell@example.com</Pemail>
+	</Scout>
+</Scouts>
